@@ -1,0 +1,19 @@
+
+
+html {
+    cursor: url(cursor_5.cur), auto;
+}
+
+        .video {
+            border: solid 1px darkslategray;
+            background-color: lightslategray;
+            display: flex;
+            justify-content: space-around;
+        }
+
+            video:hover {
+                cursor: url(cursor_6.cur), auto;
+            }
+
+
+
